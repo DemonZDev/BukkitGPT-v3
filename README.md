@@ -46,7 +46,7 @@ You can use BukkitGPT on any computer with [Java](https://www.azul.com/downloads
 
 1. Clone the repository and install the dependencies with command:
 ```bash
-git clone https://github.com/CyniaAI/BukkitGPT-v3
+git clone https://github.com/DemonZDev/BukkitGPT-v3.git
 cd BukkitGPT-v3
 python -m venv venv
 source venv/bin/activate # for Windows, use `venv\Scripts\activate`
