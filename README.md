@@ -53,7 +53,7 @@ source venv/bin/activate # for Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 2. Copy `.env.example` to `.env` and edit it to set `LLM_PROVIDER` (e.g. `openai`, `anthropic`, `google`) and fill in your provider API key.
-3. Run bash command `streamlit web.py` to start the web application.
+3. Run bash command `streamlit run web.py` to start the web application.
 4. Open your browser and go to `http://localhost:8501` to access the web application.
 5. Enjoy!
 
